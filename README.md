@@ -46,8 +46,8 @@ Proyecto educativo IoT que utiliza un **ESP32** con el sensor **MQ7** para monit
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/esp32-airguard-dashboard.git
-cd esp32-airguard-dashboard
+git clone https://github.com/ErickHBorda/esp32_co_monitor.git
+cd esp32_co_monitor
 ````
 
 ### 2. Carga el código al ESP32
@@ -94,7 +94,7 @@ El **sensor MQ7** mide la concentración de monóxido de carbono (CO) en el aire
 
 ---
 
-## ✅ Mejoras futuras
+## Mejoras futuras
 
 * Guardar historial en base de datos (Firebase, MongoDB, etc)
 * Crear app móvil
@@ -103,14 +103,14 @@ El **sensor MQ7** mide la concentración de monóxido de carbono (CO) en el aire
 
 ---
 
-## ✍️ Autor
+## Autor
 
-**Erick Huaman Borda** 
+**Erick Huaman Borda** -
 📧 *Si te gustó este proyecto, no dudes en dejar una ⭐ en el repo.*
 
 ---
 
-## 🪄 Licencia
+## Licencia
 
 Este proyecto es de uso libre para fines educativos y personales. ¡Explóralo y modifícalo como gustes!
 
